@@ -1,4 +1,4 @@
-# BMS app for Wear OS
+# BMS app for Android Wear OS
 
 Read-only BMS app for the first-generation square Xiaomi Watch (2019, Wear OS 2.27). It reads a protection board over BLE and does not change protection settings.
 
